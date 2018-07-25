@@ -43,4 +43,4 @@ The `lib/usersApi.js` file we have provided you with is a mock API, for this tes
 
 ### Questions
 
-If you have any questions during the challenge feel free to email Brennen Denomme at bdenomme@guestlogix.com. Whether it be a question about the requirements, submitting, anything, just send the email!
+If you have any questions during the challenge feel free to email Henry Goddard at hgoddard@guestlogix.com. Whether it be a question about the requirements, submitting, anything, just send the email!
