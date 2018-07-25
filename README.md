@@ -39,7 +39,7 @@ The `lib/usersApi.js` file we have provided you with is a mock API, for this tes
 
 1. Run through it one last time to make sure it works!
 2. Push up to your repo one last time
-3. Email bdenomme@guestlogix.com with the link to your repository
+3. Email hgoddard@guestlogix.com with the link to your repository
 
 ### Questions
 
